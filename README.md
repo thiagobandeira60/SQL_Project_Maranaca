@@ -2,7 +2,7 @@
 
 This is a ficticious database created to simulate a real stadium located in Brazil.
 
-Some of the project characteristics can be described below:
+Some of the project features can be described below:
 
 - Business Requirements 
 - Over 20 tables containing atributes and data inserted

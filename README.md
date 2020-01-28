@@ -1,6 +1,7 @@
 # Maracana Stadium
 
-This is a ficticious database created to simulate a real stadium located in Brazil
+This is a ficticious database created to simulate a real stadium located in Brazil.
+
 Some of the project characteristics can be described below:
 
 - Business Requirements 
